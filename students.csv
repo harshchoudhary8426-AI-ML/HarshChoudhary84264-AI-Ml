@@ -1,0 +1,11 @@
+hours_studied,previous_score,attendance,gender,parent_education,final_score
+2,50,80,Male,Graduate,60
+3,55,85,Female,Post-Graduate,65
+4,60,90,Male,Graduate,70
+5,65,92,Male,PhD,75
+1,48,75,Female,High School,55
+6,70,95,Male,Graduate,82
+3,58,88,Female,Graduate,67
+7,72,96,Male,Post-Graduate,88
+8,80,98,Female,PhD,92
+2,52,82,Male,High School,58
